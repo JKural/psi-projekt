@@ -1,0 +1,9 @@
+numpy
+scipy
+pandas
+scikit-learn
+seaborn
+tensorflow
+tensorflow-datasets
+librosa
+sounddevice
