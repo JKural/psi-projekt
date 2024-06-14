@@ -36,5 +36,5 @@ W notebooku "interactive-test.ipynb" przygotowane są skrypty do użytkowania mo
 2. Zbadanie klasy audio z pliku
 3. Obliczenie metryk na zbiorach treningowym, walidacyjnym oraz testowym
 
-Aby skrypty działały poprawnie należy wykonać kod we wszystkich komórkach w *Setup*, a następnie wykonać kod w interesującej nas komórce. Funkcje wyliczające metryki nie potrzebują żadnego dodatkowego przygotowania. W funkcji wyznaczającej klasę z pliku należy ustawić "path" na scieżkę do pliku. Funkcję wyznaczającą klasę z nagrania poprzedza 3 sekundowe obliczanie. Następnie audio nagrywane jest przez jedną sekundę.
+Aby skrypty działały poprawnie należy wykonać kod we wszystkich komórkach w *Setup*, a następnie wykonać kod w interesującej nas komórce. Funkcje wyliczające metryki nie potrzebują żadnego dodatkowego przygotowania. W funkcji wyznaczającej klasę z pliku należy ustawić "path" na scieżkę do pliku. Funkcję wyznaczającą klasę z nagrania poprzedza 3 sekundowe odliczanie. Następnie audio nagrywane jest przez jedną sekundę.
 
